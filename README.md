@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Working on 🚇
-Revamping my [website](http://www.myhackerspaces.com) to document my journery on building my home lab 🧠
+Revamping my [website](http://www.myhackerspaces.com) to document network simulations & trianglating network attacks within home lab environment 🧠
 
 ## Working on certifications 🤯
 CCNA / Cisco Cyberops Professional
