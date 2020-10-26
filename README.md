@@ -4,7 +4,7 @@
 Revamping my [website](http://www.myhackerspaces.com) to document network simulations & trianglating network attacks within home lab environment 🧠
 
 ## Working on certifications 🤯
-CCNA / Cisco Cyberops Professional
+GCIH
 
 ## Find me on 👀
 LinkedIn [here](https://www.linkedin.com/in/bryan-weito/).
