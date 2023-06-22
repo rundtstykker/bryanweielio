@@ -1,4 +1,4 @@
-### Hi! I reside in the cyber security realm. I'm also a web & iOS developer. I love reverse engineering and exploit development. Not really active on GitHub, but if you want to know what I'm working on, please message me!
+### Hi! I am an Application Security Engineer in the cloud security space. 
 
 ## GIAC & SANS Certified
 
